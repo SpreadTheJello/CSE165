@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// tested with the exercise3.txt by typing "./exercise 3 < exercise3.txt" into console
 int main(){
     string str;
     int num;
